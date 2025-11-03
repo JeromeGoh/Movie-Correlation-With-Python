@@ -9,7 +9,7 @@ Through this project, I practised data cleaning, type conversion, correlation an
 
 **Dataset Description**
 
-**The dataset contains information such as:**
+_**The dataset contains information such as:**_
 
 - Movie title, genre, and rating
 - Budget and gross revenue
